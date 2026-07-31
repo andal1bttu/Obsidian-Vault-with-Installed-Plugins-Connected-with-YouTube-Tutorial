@@ -41,7 +41,7 @@ It expands the possibilities of the standard graph view and supports more intent
 
 Rather than using the graph only as a decorative overview, Better Graphs is intended to make the graph more meaningful, readable, and useful for understanding your knowledge system.
 
-[Learn more about Better Graphs](ADD-BETTER-GRAPHS-LINK-HERE)
+[Learn more about Better Graphs](https://github.com/andal1bttu/Better-Graph-for-Obsidian)
 
 ---
 
@@ -133,7 +133,7 @@ Several templates are already included in the vault and can be adapted to your o
 
 **Zotero Integration** connects the Obsidian vault with your Zotero reference library.
 
-For the integration to work correctly, you must also install **Better BibTeX for Zotero** inside Zotero.
+For the integration to work correctly, you must also install **Better BibTeX for Zotero** inside Zotero. [Install Better Bibtex for Zotero] (https://retorque.re/zotero-better-bibtex/)
 
 The complete connection between Zotero and Obsidian can take some time to configure. However, this demonstration vault already includes a Zotero Integration template that has been designed for the workflow shown in the tutorial.
 
