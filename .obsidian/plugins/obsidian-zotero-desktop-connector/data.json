@@ -1,0 +1,28 @@
+{
+  "database": "Zotero",
+  "noteImportFolder": "References",
+  "pdfExportImageDPI": 120,
+  "pdfExportImageFormat": "jpg",
+  "pdfExportImageQuality": 90,
+  "citeFormats": [
+    {
+      "name": "Format #1",
+      "format": "formatted-citation",
+      "cslStyle": "norsk-apa-manual-note"
+    }
+  ],
+  "exportFormats": [
+    {
+      "name": "Zotero Integration Template_Literature Synthesis Template_Review Paper",
+      "outputPathTemplate": "References/{{citekey}}.md",
+      "imageOutputPathTemplate": "References/Images/{{citekey}}/",
+      "imageBaseNameTemplate": "image",
+      "templatePath": "Templates/Zotero Integration Templates/Zotero Integration Template_Literature Synthesis Template_Review Paper.md",
+      "cslStyle": "norsk-apa-manual-note"
+    }
+  ],
+  "citeSuggestTemplate": "[[{{citekey}}]]",
+  "openNoteAfterImport": true,
+  "whichNotesToOpenAfterImport": "first-imported-note",
+  "shouldConcat": true
+}

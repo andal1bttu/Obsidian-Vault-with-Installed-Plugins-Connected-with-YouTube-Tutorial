@@ -1,0 +1,133 @@
+{
+  "colorMode": "folder",
+  "colorProperty": "pillar",
+  "sizeMode": "links",
+  "iconProperty": "icon",
+  "pinOnDrop": true,
+  "connectionsHeading": "## Connections",
+  "focusHops": 2,
+  "showLabels": true,
+  "showOrphans": true,
+  "showLinkArrows": false,
+  "textFade": 0.45,
+  "textSize": 0.8,
+  "nodeScale": 1,
+  "lineWidth": 0.6,
+  "groups": [
+    {
+      "query": "",
+      "color": "#e15759"
+    }
+  ],
+  "forces": {
+    "center": 0,
+    "repel": 9000,
+    "linkStrength": 0,
+    "linkDistance": 400
+  },
+  "lockLayout": false,
+  "edgeStyle": "curved",
+  "curvature": 0.25,
+  "edgeStyles": {
+    "link": {
+      "color": "#888888",
+      "width": 1,
+      "dash": "solid",
+      "head": "triangle"
+    },
+    "north": {
+      "color": "#c0392b",
+      "width": 1.6,
+      "dash": "solid",
+      "head": "triangle"
+    },
+    "south": {
+      "color": "#27ae60",
+      "width": 4,
+      "dash": "dashed",
+      "head": "triangle"
+    },
+    "west": {
+      "color": "#2980b9",
+      "width": 1.6,
+      "dash": "solid",
+      "head": "none"
+    },
+    "east": {
+      "color": "#8e44ad",
+      "width": 1.4,
+      "dash": "dashed",
+      "head": "none"
+    }
+  },
+  "edgeColorMode": "fixed",
+  "linkExaggeration": 0.85,
+  "customColors": [
+    {
+      "kind": "folder",
+      "key": "Discussion Notes",
+      "color": "#f42a41"
+    },
+    {
+      "kind": "folder",
+      "key": "Session Notes",
+      "color": "#006a4e"
+    },
+    {
+      "kind": "folder",
+      "key": "Session Tasks",
+      "color": "#4cc144"
+    },
+    {
+      "kind": "folder",
+      "key": "00 MOC",
+      "color": "#0e9a7e"
+    },
+    {
+      "kind": "folder",
+      "key": "Given Materials",
+      "color": "#00ff91"
+    },
+    {
+      "kind": "folder",
+      "key": "Concepts",
+      "color": "#149474"
+    }
+  ],
+  "backgroundMode": "texture",
+  "backgroundColor": "#fafafa",
+  "texturePath": "",
+  "texturesFolder": "Textures",
+  "labelColor": "light",
+  "relevanceWeights": {
+    "connections": true,
+    "keywords": true,
+    "similarity": true,
+    "tags": true
+  },
+  "nodeOverrides": {
+    "Discussion Notes/Closing Remarks - Seminar Synthesis.md": {
+      "x": 341.490803527789,
+      "y": 117.11529986608211,
+      "pinned": true
+    },
+    "00 MOC/Day 2 MOC.md": {
+      "x": 1328.7783406956078,
+      "y": 473.0450021738876,
+      "pinned": true
+    },
+    "Literature Notes/OLE! Texas Designer Proof of Competency.md": {
+      "icon": "📶"
+    }
+  },
+  "exportDefaults": {
+    "format": "png",
+    "pageGroup": "ISO A",
+    "pageName": "A4",
+    "orientation": "landscape",
+    "dpi": 300,
+    "fit": "graph",
+    "transparent": true,
+    "marginMm": 10
+  }
+}

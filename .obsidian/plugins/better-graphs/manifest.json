@@ -1,0 +1,9 @@
+{
+  "id": "better-graphs",
+  "name": "Better Graphs",
+  "version": "0.6.1",
+  "minAppVersion": "1.4.0",
+  "description": "A graph view with pinned nodes, styled edges, compass relations, many clustering methods, keyword heatmaps, hover isolation, print-quality export, a snapshot and metrics exporter with a timeline, and opt-in anonymized usage logging.",
+  "author": "S Y Andalib",
+  "isDesktopOnly": false
+}
